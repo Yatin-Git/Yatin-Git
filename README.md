@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yatin-Git](https://github.com/Yatin-Git)
+- 👨‍💻 All of my projects are available at [https://github.com/Yatin-Git]([https://github.com/Yatin-Git](https://github.com/Yatin-Git?tab=repositories))
 
 - 📫 How to reach me **yatinsingh737@gmail.com**
 
