@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Blogging Application - Frontend**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yatin-Git?tab=repositories](https://github.com/Yatin-Git?tab=repositories)
 
